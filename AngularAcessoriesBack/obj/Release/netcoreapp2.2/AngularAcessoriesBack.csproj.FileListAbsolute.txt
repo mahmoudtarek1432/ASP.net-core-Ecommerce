@@ -1,0 +1,17 @@
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AngularAcessoriesBack.deps.json
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AngularAcessoriesBack.runtimeconfig.json
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AngularAcessoriesBack.runtimeconfig.dev.json
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AngularAcessoriesBack.dll
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AngularAcessoriesBack.pdb
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AspIdentity.Shared.dll
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\bin\Release\netcoreapp2.2\AspIdentity.Shared.pdb
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.csprojAssemblyReference.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.csproj.CoreCompileInputs.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.RazorAssemblyInfo.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.RazorAssemblyInfo.cs
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.AssemblyInfoInputs.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.AssemblyInfo.cs
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.RazorTargetAssemblyInfo.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.csproj.CopyComplete
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.dll
+C:\Users\wed\source\repos\AngularAcessoriesBack\AngularAcessoriesBack\obj\Release\netcoreapp2.2\AngularAcessoriesBack.pdb

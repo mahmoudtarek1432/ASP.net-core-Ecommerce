@@ -1,0 +1,9 @@
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\bin\Release\netcoreapp2.2\AspIdentity.Shared.deps.json
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\bin\Release\netcoreapp2.2\AspIdentity.Shared.dll
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\bin\Release\netcoreapp2.2\AspIdentity.Shared.pdb
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\obj\Release\netcoreapp2.2\AspIdentity.Shared.csprojAssemblyReference.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\obj\Release\netcoreapp2.2\AspIdentity.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\obj\Release\netcoreapp2.2\AspIdentity.Shared.AssemblyInfoInputs.cache
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\obj\Release\netcoreapp2.2\AspIdentity.Shared.AssemblyInfo.cs
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\obj\Release\netcoreapp2.2\AspIdentity.Shared.dll
+C:\Users\wed\source\repos\AngularAcessoriesBack\AspIdentityShared\obj\Release\netcoreapp2.2\AspIdentity.Shared.pdb
